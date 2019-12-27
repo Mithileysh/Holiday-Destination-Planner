@@ -8,6 +8,8 @@ The web page is compact, concise and gives the user three options they require t
 They can then make an informed decision on choosing their next holiday destination.
 The three options included are, Accommodation, Bars/Restaurants and Tourist Attractions as their points of interest.
 
+DEMO: https://mithileysh.github.io/Holiday-Destination-Planner/
+
 ## Features
 
 The web page itself is a simple layout and it is more or less self explanatory from looking at your options within the page.
