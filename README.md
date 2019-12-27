@@ -1,4 +1,4 @@
-# Destination Planner 
+# Holiday Destination Planner 
 
 The web page I have created is a Google Maps API. It is a holiday destination planner. As we all know choosing a new city to visit or plan a holiday in can be a daunting task. 
 Most families only get to do this once a year so the right decision must be made on picking the right location.
